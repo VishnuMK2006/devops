@@ -8,3 +8,38 @@ ipv4
 192.168.10.128 (Every numbers are octet)
 
 0-255-> 0 is for base address, 255 for bordcast value.
+
+
+afternoon:
+
+docker terminologies
+images
+container
+docker demon
+docker workflow
+Dockerfile
+DockerHub(public , private)
+Docker file formate:
+	FROM image
+	WORKDIR 
+	COPY
+	CMD[]
+Docker hub ->public , private(Same as an github)
+
+Workflow:
+Write application code
+create Dockefile
+Build image
+push it into hub
+pull it into server
+run the container
+
+
+
+summary
+
+docker ->tool
+images->blueprint
+container ->running app
+dockerfile->instructions
+dockehub->repo
