@@ -1,0 +1,75 @@
+1  man sudo_root
+2  pwd
+3  ls
+4  ls -l
+5  history
+6  pwd
+7  mkdir vishnumk
+8  ls
+9  ls 
+10 ls -l
+11 ls -a
+12 ls -s
+13 rmdir vishnumk
+14 ls
+15 cd vishnumk
+16 pwd
+17 mkdir vishnumk
+18 cd vishnumk
+19 pwd
+20 ls
+21 cd ..
+22 cd home/
+23 cd vishnumk
+24 touch new.txt
+25 vim new.txt
+26 history
+27 ls
+28 mkdir newdir
+29 cp new.txt newdir/
+30 ls
+31 ls newdir/
+32 cat new.txt
+33 cat newdir/new.txt
+34 history
+35 cd C:\Users\VISHNUMK\PROJECTS\Devops\devops-class
+36 cd C:/Users/VISHNUMK/PROJECTS/Devops/devops-class
+37 cd /C/Users/VISHNUMK/PROJECTS/Devops/devops-class
+38 cd "/mnt/c/Users/VISHNUMK/PROJECTS/Devops/devops-class"
+39 echo "# devops-class" >> README.md
+40 git init
+41 git add README.md
+42 git commit -m "first commit"
+43 git config --global user.email "vishnumk@gmail.com"
+44 git config --global user.name "vishnumk"
+45 git commit -m "first commit"
+46 git branch -M main
+47 git remote add origin https://github.com/vishnumk/devops-class.git
+48 git push -u origin main
+49 touch "day1.txt"
+50 git add .
+51 rm day1.txt
+52 touch "day1.txt"
+53 git add .
+54 git commit -m "created day1.txt"
+55 git push origin main
+56 git clone https://github.com/vishnumk/devops-class.git
+57 echo "Day 1" >> "day1.txt"
+58 git push
+59 git history
+60 historu
+61 history
+62 cat "day1.txt"
+63 h
+64 history
+65 git add .
+66 echo history >> "day1.txt"
+67 git add .
+68 git clone https://github.com/vishnumk/devops-class
+69 git status
+70 cd "/mnt/c/Users/VISHNUMK/PROJECTS/Devops/devops-class"
+71 git status
+72 git add .
+73 git commit -m "updated day1 notes"
+74 git push
+75 history >> day1.txt
